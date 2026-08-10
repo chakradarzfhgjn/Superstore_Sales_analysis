@@ -2,8 +2,9 @@
 📌 Executive Summary
 This project presents an interactive, executive-level Power BI Sales Analysis Dashboard built on the global Superstore e-commerce dataset. The dashboard consolidates transactional data into actionable business metrics—evaluating top-line revenue growth, regional sales performance, order distributions, and category margins across global markets.
 
-<img width="596" height="335" alt="Screenshot 2026-08-10 180813" src="https://github.com/user-attachments/assets/c03af2de-ce8d-4b1c-b9c8-81720b4b8da7" />
+Interactive powerbi dashboard showcase
 
+<img width="596" height="335" alt="Screenshot 2026-08-10 180813" src="https://github.com/user-attachments/assets/c03af2de-ce8d-4b1c-b9c8-81720b4b8da7" />
 
 
 
